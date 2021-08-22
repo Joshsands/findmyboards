@@ -20,6 +20,8 @@
 
 [DEPLOYED ON HEROKU!](https://findmyboards.herokuapp.com/)
 
+[ORIGINAL GROUP PROJECT REPO](https://github.com/janekv20/find-my-boards)
+
 <!-- [CLICK HERE FOR THE FULL DEMONSTRATION VIDEO!](https:/) -->
 
 ## Project Description
